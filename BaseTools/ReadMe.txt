@@ -1,3 +1,5 @@
+The quick brown fox jumps over the lazy dog.
+
 This directory contains the next generation of EDK II build tools and template files.
 Templates are located in the Conf directory, while the tools executables for
 Microsoft Windows 32-bit Operating Systems are located in the Bin\Win32 directory, other
