@@ -1,3 +1,5 @@
+The quick brown fox jumps over the lazy dog.
+
 This directory contains the template files for the next generation of the
 EDK II Build infrastructure.  These files will be copied into the WORKSPACE's
 Conf directory if and only if the target files do not exist.
